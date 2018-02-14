@@ -8,6 +8,10 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */
 
+/* Using Modular Scale 3:4 perfect fourth. http://www.modularscale.com/?22&px&1.333*/
+
+/* font family from fonts.google.com Helvetica Light: https://www.fonts.com/font/linotype/helvetica/light*/
+
 /* Basic style*/
 
 html{
